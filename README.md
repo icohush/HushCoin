@@ -1,6 +1,6 @@
 ## USHToken
 
-Repository for the Entomo token + ICO smart contracts
+Repository for the Hush token + ICO smart contracts
 
 - contracts/Crowdsale.sol : code of ICO allocation contract
 - contracts/USHToken.sol : code of Hush Token 
