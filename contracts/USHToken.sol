@@ -6,7 +6,7 @@ import './Ownable.sol';
 
 contract USHToken is BurnableToken {
 
-    string public constant name = "Hush Token";
+    string public constant name = "USH Token";
     string public constant symbol = "USH";
     uint public constant decimals = 18;
     uint256 public constant initialSupply =  698396562013061000000000+10**18;
